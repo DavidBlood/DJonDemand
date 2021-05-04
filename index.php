@@ -8,6 +8,6 @@ include("header.html")
 
 //what does this do
 
-//hwy 
+//why wont you work 
 
  ?>
